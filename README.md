@@ -1,5 +1,5 @@
-# Python-challenge
-The script converts a json to a tsv file.
+# ETL-Python
+This script does an ETL from a json file to a tsv.
 ***
 
 ## Table of Contents
